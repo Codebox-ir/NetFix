@@ -2,6 +2,8 @@
 
 A lightweight network repair tool for fixing Windows connectivity issues instantly.
 
+[[Website](http://netfix.codebox.ir)]
+
 ## 🚀 Overview
 
 NetFix is a fast and portable utility designed to repair common Windows networking problems.  
@@ -33,7 +35,7 @@ Choose the version that matches your system:
 - **32‑bit**
 
 👉 Download from:  
-[Releases Page](https://github.com/)
+[[V 1.0.0](https://github.com/Codebox-ir/NetFix/releases/tag/1.0.0)]
 
 ## 🧠 Why NetFix?
 
